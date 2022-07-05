@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Love Tewari 
+Hi I'm Love Tewari 
   
 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="Love" width="30px">
   
