@@ -2,9 +2,6 @@
   
 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="Love" width="30px">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=23&duration=4000&color=F714ED&lines=A+Passionate+FullStack+Developer;A+Passionate+Designer;A+CSE+Undergrad;A+Open+Source+Contributer.)](https://git.io/typing-svg)
-</h1>
-  
 
 
 --------------------
